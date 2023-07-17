@@ -1,3 +1,10 @@
+/**
+ * Title: about.component.ts
+ * Author: Professor Krasso
+ * ModifiedBy: Yakut Ahmedin
+ * Date: 16 July 2023
+ * Description:  Loan App
+*/
 import { Component, OnInit } from '@angular/core';
 
 @Component({
